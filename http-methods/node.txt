@@ -1,0 +1,4 @@
+link:  mongodb+srv://root:<db_password>@cluster0.2xz93hh.mongodb.net/
+
+name:root;
+password:1234
